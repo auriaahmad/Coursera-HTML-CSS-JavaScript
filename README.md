@@ -2,6 +2,9 @@
 
 ## Completed HTML, CSS, and JavaScript Course by John Hopkins University on Coursera 🚀
 
+![My Image](HTML CSS JS.pdf)
+
+
 Equipped with a solid foundation in web development basics! 🛠️
 
 **Key Takeaways:**
