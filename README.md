@@ -1,6 +1,7 @@
 # Web Development Journey 🌐
 
-## Completed HTML, CSS, and JavaScript Course by John Hopkins University on Coursera and Also a Short Course of ES6🚀
+## HTML, CSS, and JavaScript Course for Web Developers John Hopkins University on Coursera
+## Also a Short Course of ES6🚀
 Equipped with a solid foundation in web development basics! 🛠️
 
 **Key Takeaways:**
