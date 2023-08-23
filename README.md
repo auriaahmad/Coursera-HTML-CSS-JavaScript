@@ -1,6 +1,6 @@
 # Web Development Journey 🌐
 
-## Completed HTML, CSS, and JavaScript Course by John Hopkins University on Coursera 🚀
+## Completed HTML, CSS, and JavaScript Course by John Hopkins University on Coursera and Also a Short Course of ES6🚀
 Equipped with a solid foundation in web development basics! 🛠️
 
 **Key Takeaways:**
@@ -8,10 +8,17 @@ Equipped with a solid foundation in web development basics! 🛠️
 - Polished my CSS skills for creative UI design
 - Explored JavaScript for interactive web experiences
 
-[Certificate](https://coursera.org/share/b5a6aaf509f3bd4e117990c5d0915711)
+[Verify](https://coursera.org/share/b5a6aaf509f3bd4e117990c5d0915711)
 
 
 ![Certificate](HTML_CSS_JS_for_web_development.png)
+
+# ES6
+[Verify](https://coursera.org/share/ddbfc6db6888bddef1132e4bb20cd719)
+
+
+![Certificate](ES6.png)
+
 
 This course experience has emphasized the significance of establishing a strong foundation in mastering the fundamentals.
 
