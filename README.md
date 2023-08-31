@@ -17,6 +17,10 @@ From HTML5 basics and CSS3 concepts to responsive design and client interaction,
 - Modern ES6 syntax
 - Manipulating web page components with the Document Object Model.
 - Utilizing Ajax for dynamic data interaction and JSON processing.
+- Grasped major ES6 features for modern JavaScript.
+- Applied ES6 practically to solve real-world scenarios.
+- Demystified `this` and tackled common issues.
+- Differentiated JavaScript from ECMAScript.
 
 
 This course experience has emphasized the significance of establishing a strong foundation in mastering the fundamentals.
