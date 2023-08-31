@@ -2,13 +2,6 @@
 
 ## HTML, CSS, and JavaScript Course for Web Developers John Hopkins University on Coursera
 ## Also a Short Course of ES6🚀
-Equipped with a solid foundation in web development basics! 🛠️
-
-**Key Takeaways:**
-- Mastered HTML for structuring content
-- Polished my CSS skills for creative UI design
-- Explored JavaScript for interactive web experiences
-
 [Verify](https://coursera.org/share/b5a6aaf509f3bd4e117990c5d0915711)
 
 
@@ -19,6 +12,14 @@ Equipped with a solid foundation in web development basics! 🛠️
 
 
 ![Certificate](ES6.png)
+Equipped with a solid foundation in web development basics! 🛠️
+
+**Key Takeaways:**
+- Mastered HTML for structuring content
+- Polished my CSS skills for creative UI design
+- Explored JavaScript for interactive web experiences
+
+
 
 
 This course experience has emphasized the significance of establishing a strong foundation in mastering the fundamentals.
